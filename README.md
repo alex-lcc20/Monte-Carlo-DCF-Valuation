@@ -7,7 +7,7 @@ Monte Carlo simulation of a Discounted Cash Flow (DCF) model to estimate the pro
 ![Monte Carlo Distribution](equity_distribution.png)
 
 ## Methodology
-
+ 
 The model follows these steps:
 
 1. Retrieve financial data
