@@ -4,8 +4,6 @@ Monte Carlo simulation of a Discounted Cash Flow (DCF) model to estimate the pro
 
 ## Example Output
 
-The Monte Carlo simulation generates a distribution of equity values which can be compared to the current market price in order to estimate the probability of overvaluation or undervaluation.
-
 ![Monte Carlo Distribution](equity_distribution.png)
 
 ## Methodology
