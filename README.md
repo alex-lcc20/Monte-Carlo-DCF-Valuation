@@ -15,7 +15,6 @@ The model follows these steps:
 3. Simulate key drivers using Monte Carlo:
    - Revenue growth
    - EBITDA margin
-   - CAPEX
    - Working capital
 4. Compute projected free cash flows
 5. Discount cash flows using WACC
