@@ -5,3 +5,18 @@ Monte Carlo simulation of a Discounted Cash Flow (DCF) model to estimate the pro
 ## Example Output
 
 ![Monte Carlo Distribution](equity_distribution.png)
+
+## Methodology
+
+The model follows these steps:
+
+1. Retrieve financial data
+2. Estimate historical financial ratios
+3. Simulate key drivers using Monte Carlo:
+   - Revenue growth
+   - EBITDA margin
+   - CAPEX
+   - Working capital
+4. Compute projected free cash flows
+5. Discount cash flows using WACC
+6. Estimate the distribution of equity value
